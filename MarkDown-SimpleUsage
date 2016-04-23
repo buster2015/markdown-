@@ -1,0 +1,62 @@
+![本文效果图](http://avatar.csdn.net/4/9/C/1_renfufei.jpg width="100")
+#MarkDown的简单用法
+##成为习惯
+日常记事中，用普遍文本的情况不在少数，但是文本本身的并没有特殊的格式含义，要表示一些特殊的含义也会在头或尾加一些*号，下划线，分割线等，来隔断文本块，区分内容信息等。那现在Markdown变得非常合适，只要稍微记住几个语法字符，就可以轻松的标记出来标题、段落、列表，长久使用形成习惯，能够带来很多方便。
+所以可以把Markdown作为日常文档记录语言。
+##变得简单
+markdown是一种轻量级的标记语言。语法简单，书写简单，只需要像写普通文本一样，在行首加上特殊的字符，就可以标记成标题，段落，列表，就是markdown。markdowng格式的文本，更容易阅读和理解，而且可以轻松转化成html，pdf等。详细标签说明见下面链接。
+##使用工具
+使用Notepad,EditPlus,UltraEdit等等，只要可以写文本的编辑器都可以。让Notepad支持Markdonw语法高亮
+1. 下载userDefineLang.xml
+2. 将 userDefineLang.xml 放置到此目录：C:\Users\Administrator\AppData\Roaming\Notepad++
+3. 重启 Notepad++，在语言菜单下可以看到自定义的 Markdown 高亮规则
+**也可以使用现成的工具MarkdownPad，可以自动生成Markdown标签。**
+##开始使用，先搭建环境，各种安装即可，点击下载
+[test](http://www.python.org/download/ "python-2.7.2.msi")
+[test](http://www.python.org/download/ "Markdown-2.0.win32.exe")
+【有需要64位的童鞋可以点击这里下载哦！[test](https://pypi.python.org/packages/any/M/Markdown/Markdown-2.4.win-amd64.exe#md5=87479a3d05c9c05a1ab5d610ee4f99ec "Markdown-2.0.win32.exe")】
+[test](http://markdownpad.com/download/MarkdownPad.application "MarkdownPad.exe")这个是查看你写出的东东的效果，高手就不必了哈
+[test](http://files.cnblogs.com/purediy/pandoc-1.9.4.2b-setup.rar "pandoc-1.9.4.2b-setup.exe")
+##助你一臂之力的链接
+[test](http://wowubuntu.com/markdown/index.html "Markdown 语法说明 (简体中文版)")
+[test](http://ued.taobao.com/blog/2012/07/getting-started-with-markdown/ "开始使用 Markdown")
+[test](http://www.openfoundry.org/en/news/8814?task=view "Pandoc 用命令行转换标记语音！")
+[test](http://blog.xiedaima.org/notepad-markdown/ "Notepad++ 加入 Markdown 支持")
+
+##下面试着写一下程序员们的代码吧
+输出0-5六个数字
+	`CTRL+C复制`
+1. 简单shell脚本：
+> #!/bin/bash
+> for i in {0..5};do
+> 	echo $i
+> done   
+
+2. 简单python脚本：
+> if __name__=="__main__":
+>     for i in range(6):
+>         print i
+
+3. 简单java语言：
+> class HelloDigital{
+> 	public static void main(String [] args){
+> 		for (int i=0;i<6;i++){
+>			print i
+>		}
+> 	}
+> }
+
+##见本文的效果图
+本文的内容Markdown文本，以及预览如下：
+![本文效果图](http://avatar.csdn.net/4/9/C/1_renfufei.jpg)
+
+*其他markdown* **具体使用** ***说明***
+[test](http://blog.csdn.net/renfufei/article/details/41648021 "markdown基础用法so easy")
+
+
+
+
+
+
+
+
