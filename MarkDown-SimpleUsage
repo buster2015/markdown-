@@ -1,4 +1,4 @@
-![本文效果图](http://avatar.csdn.net/4/9/C/1_renfufei.jpg width="100")
+![本文效果图](icon.jpg)
 #MarkDown的简单用法
 ##成为习惯
 日常记事中，用普遍文本的情况不在少数，但是文本本身的并没有特殊的格式含义，要表示一些特殊的含义也会在头或尾加一些*号，下划线，分割线等，来隔断文本块，区分内容信息等。那现在Markdown变得非常合适，只要稍微记住几个语法字符，就可以轻松的标记出来标题、段落、列表，长久使用形成习惯，能够带来很多方便。
@@ -48,7 +48,7 @@ markdown是一种轻量级的标记语言。语法简单，书写简单，只需
 
 ##见本文的效果图
 本文的内容Markdown文本，以及预览如下：
-![本文效果图](http://avatar.csdn.net/4/9/C/1_renfufei.jpg)
+![本文效果图](cutimage.png)
 
 *其他markdown* **具体使用** ***说明***
 [test](http://blog.csdn.net/renfufei/article/details/41648021 "markdown基础用法so easy")
